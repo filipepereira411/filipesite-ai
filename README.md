@@ -8,4 +8,4 @@ Site 2: https://01a1f35f-ab79-7877-b31d-73d1587da9aa.arena.site/
 Site 3: https://01a1f35f-ab79-7b78-a66a-a0060f0c80e6.arena.site/
 Site 4: https://01a1f35f-ab79-7b78-a66a-a0060f0c80e6.arena.site/
 #
-Site de sincronização: 
+Site de sincronização: https://01a1f410-e39b-7c0f-b558-60724643850f.arena.site/
